@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DatabaseClient.ConsoleEx" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAEQBAAAAAAAAAAwAAAAAAAQAAAABIAAAEACAAEAAA=</HashCode>
+      <FileName>ConsoleEx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseClient.Program" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseClient.Routines.ArgProcess">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQgAAAAAAAAAAACgAACAAIUAAgAAAgAQAAAAAAAI=</HashCode>
+      <FileName>Routines\ArgProcess.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DatabaseClient.Routines.BackupRoutine">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQgIAAAAAAAAAACgAACAAIQAAQAAAoAQAAAAAEAI=</HashCode>
+      <FileName>Routines\BackupRoutine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DatabaseClient.Routines.Main">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Routines\Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseClient.Routines.Manage" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Routines\Manage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseClient.Routines.Query">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Routines\Query.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseClient.Routines.Restorer" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAQCAIAAAAAQAAAAAgAQAAAAAAAAAAAAAAAQI=</HashCode>
+      <FileName>Routines\Restorer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DatabaseClient.Routines.RoutineBase" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAEAAAAAAAAAAEAI=</HashCode>
+      <FileName>Routines\RoutineBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
